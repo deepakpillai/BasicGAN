@@ -1,5 +1,16 @@
 # BasicGAN
-A very basic Generative adversarial networks model to generate handwritten digits trained using MNIST dataset
+Objective:- A very basic Generative adversarial networks model to generate handwritten digits trained using the MNIST dataset
 
+### Approach:-
+- Use a fully connected layer, batch norm 1d, and a non-linear (ReLU) for Generator.
+- Use a fully connected layer and a non-linear (LeakyReLU) for the Discriminator. 
+- Activation:- Sigmoid 
+- Loss function:- Binery Cross Entropy Loss
+- Optimization function:- Adam
+- Framework:- Pytorch
 
-https://github.com/deepakpillai/BasicGAN/blob/main/Result.png
+### Dataset:- MNIST-PyTorch
+
+### Result:-
+<img align="left" src="https://github.com/deepakpillai/BasicGAN/blob/main/Result.png?raw=true" />
+
