@@ -1,5 +1,5 @@
 # BasicGAN
-Objective:- To create a very basic Generative adversarial networks (GAN) model to generate handwritten digits trained using the MNIST dataset
+Objective:- To create a very basic Generative adversarial networks (GAN) model to generate handwritten digits
 
 ### Approach:-
 - Use a fully connected layer, batch norm 1d, and a non-linear (ReLU) for Generator.
