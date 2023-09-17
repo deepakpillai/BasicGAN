@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import torch, pdb
 from torch.utils.data import DataLoader
 from torch import nn
